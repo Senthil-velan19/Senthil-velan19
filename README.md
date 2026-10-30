@@ -28,11 +28,7 @@ Python | Java | JavaScript | HTML | CSS
 
 **AI / Machine Learning**
 
-TensorFlow | PyTorch | Scikit-learn | OpenCV | YOLOv8 | CNN | MobileNetV2
-
-**Web Development**
-
-React.js | Next.js | Node.js | Flask | Tailwind CSS
+TensorFlow | PyTorch | Scikit-learn | OpenCV | YOLOv8 | CNN | MobileNetV2 | Pandas | Numpy | Matplotlib |
 
 **Databases & Tools**
 
